@@ -41,5 +41,7 @@ do
 }
 while (counter2 <= Math.Abs(limit2));
 
+//Do while yaptığımızda koşulu sonda kontrol ediyor.
+
 
 
